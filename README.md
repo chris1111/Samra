@@ -13,7 +13,7 @@ There are a few existing asset catalog viewer applications for macOS, however, n
 - View detailed information about each rendition, such as lookup name, width, height, appearance (if it's meant for dark mode or light mode) and other type-specific information (ie, RGB values for colors).
 
 ## What versions does this support?
-macOS 10.15.1+
+- macOS 10.15.1+
 
 ## How can I download this?
 Download the .app from the Releases
